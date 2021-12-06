@@ -6,9 +6,9 @@
 @prefix o: <http://omeka.org/s/vocabs/o#> .
 @prefix ma: <http://www.w3.org/ns/ma-ont#>.
 @prefix mo: <http://purl.org/ontology/mo#>.
-@prefix news: <https://yanhip.github/THYP_21-22/vocab.ttl#> .
+@prefix news: <https://yanhip.github.io/THYP_21-22/vocab.ttl#> .
 
-<https://yanhip.github/THYP_21-22/vocab.ttl#> a owl:Ontology ;
+<https://yanhip.github.io/THYP_21-22/vocab.ttl#> a owl:Ontology ;
     dcterms:title "Evaluation de news" .
 
 news:Article a rdfs:Class ;
